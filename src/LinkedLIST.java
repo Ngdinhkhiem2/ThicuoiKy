@@ -192,7 +192,7 @@ public class LinkedLIST {
             Date date4=formatter1.parse(sDate4);  
             Date date5=formatter1.parse(sDate5);  
             Date date6=formatter1.parse(sDate6); 
-            HangHoa hangHoa1 = new HangHoa(1000, "Sẽ gầy", "Sanh Su", 200, date4);
+            HangHoa hangHoa1 = new HangHoa(1000, "binh gom", "Sanh Su", 200, date4);
             HangHoa hangHoa2 = new HangHoa(20000, "nuoc mia", "Thuc Pham", 5, date5);
             HangHoa hangHoa3 = new HangHoa(500, "loa", "Dien May", 500, date3);
             HangHoa hangHoa4 = new HangHoa(1500, "tivi", "Dien May", 1000, date3);
