@@ -1,6 +1,6 @@
 public class Node {
     public HangHoa hangHoa;
-        public Node next;111111111111111
+        public Node next;
         public Node()
         {
     
