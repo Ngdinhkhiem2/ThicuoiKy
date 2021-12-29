@@ -65,7 +65,7 @@ public class MainHangHoa {
                 listHangHoa.XoaHangHoa(xoa);
                     break;
                 case 3:
-                System.out.println();
+                System.out.println("Enter ID needs to Fix:");
                 int sua = sc.nextInt();
                 listHangHoa.SuaThongTin(sua);
                     break;
